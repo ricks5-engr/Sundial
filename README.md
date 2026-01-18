@@ -4,8 +4,7 @@ Sundial detects light and controls a servo motor and it was done while I was par
 
 ---
 
-Demo
-(Optional) Link to live demo or screenshots.
+Quick Demo
 [Sundial.zip](https://github.com/user-attachments/files/24698790/Sundial.zip)
 
 ---
